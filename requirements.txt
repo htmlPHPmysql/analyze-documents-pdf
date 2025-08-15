@@ -1,0 +1,4 @@
+undetected-chromedriver==3.5.5
+setuptools==80.9.0
+gspread==6.2.1
+gspread_formatting==1.2.1
