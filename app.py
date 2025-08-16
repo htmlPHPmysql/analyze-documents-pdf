@@ -35,3 +35,6 @@ def main():
 
                 # create conversation chian
                 st.success(f"Documents {len(pdf_documents)} processed successfully")
+
+if __main__ == '__main__':
+    main()
